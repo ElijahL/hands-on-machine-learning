@@ -1,4 +1,4 @@
-hands-on-machine-learning
+hands-on-machine-learning (https://github.com/ageron/handson-ml)
 # Часть 1. 
 ## Глава 1. 
 Упражнения
